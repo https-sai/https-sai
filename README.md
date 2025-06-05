@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Working on building and refining my skills as a Full Stack Developer<br>Hoping to share beginner-friendly projects for others that have been in my shoes :)
+Working on building and refining my skills as a Full Stack Developer<br>Hoping to share beginner-friendly projects for others in my shoes :)
 
 ## 🌐 Socials:
 
