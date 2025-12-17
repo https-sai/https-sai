@@ -1,6 +1,5 @@
 # 💫 About Me:
-
-trying to be a frontend dev
+web dev -> https://https-sai.com/
 
 ## 🌐 Socials:
 
