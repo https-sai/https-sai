@@ -1,6 +1,6 @@
 # 💫 About Me:
 web dev -> https://https-sai.com/
-![Portfolio](https://https-sai.com/)
+[![Portfolio](https://https-sai.com/)]
 
 ## 🌐 Socials:
 
